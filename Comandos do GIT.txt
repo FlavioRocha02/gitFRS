@@ -1,0 +1,36 @@
+git history
+gitlens
+
+Comandos do GIT
+
+git merge feature
+git log --oneline
+git switch master
+git commit -m "bud fix na feature"
+git add .
+git log
+git checkout feature
+git merge feature
+git status
+git branch -v
+git branch feature
+git checkout e2a6d16
+git log -p -1
+git add arquivo02.txt
+git rm --cached arquivo01.txt
+code .
+git config --global user.email
+git config --global user.email flavio.rocha62a@gmail.com
+git config --global user.name
+git config --global user.name FlavioRocha
+git init
+git remote add origin https://github.com/FlavioRocha02/gitFRS.git
+git remote -v
+
+
+
+
+
+
+
+
